@@ -1,2 +1,0 @@
-# findteam.cc
-Rar
