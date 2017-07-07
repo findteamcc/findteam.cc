@@ -1,0 +1,27 @@
+@media screen and (max-width: 420px) {
+    #amazing-title {
+        font-size: 42px;
+    }
+}
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    #amazing-title {
+        font-size: 46px;
+    }
+    #amazing-subtitle {
+        font-size: 30px;
+    }
+    #amazing-discord {
+        height: 31px;
+    }
+}
+@media screen and (min-width: 769px) {
+    #amazing-title {
+        font-size: 96px;
+    }
+    #amazing-subtitle {
+        font-size: 40px;
+    }
+    #amazing-discord {
+        height: 42px;
+    }
+}
